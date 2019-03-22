@@ -26,7 +26,7 @@ Quark C1000
 #### Zephyr kernel currently provides only a subset of C++ functionality. 
 @snapend
 
-@snap[north-west]
+@snap[west span-20]
 The following features are not supported:
 @snapend
 
