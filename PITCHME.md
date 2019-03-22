@@ -1,7 +1,9 @@
 Sensor Challenge in C++
 ---
 @title[Polling the sensor]
+
 @snap[north-east template-note text-gray]
+@snapend
 
 ```C++
 int main(void)
@@ -23,6 +25,5 @@ int main(void)
 }
 ```
 
-@snapend
 ---
 Slide 2
