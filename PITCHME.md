@@ -32,7 +32,7 @@ The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting
 <br>
 @snapend
 
-@snap[west]
+@snap[south]
 ![](https://www.zephyrproject.org/wp-content/uploads/sites/38/2017/08/zephyr-logo.png)
 @snapend
 
