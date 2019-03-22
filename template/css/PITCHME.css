@@ -78,7 +78,7 @@
   overflow: hidden !important;
 }
 
-@media (device-width: 100vw) and (device-height: 100vh) {
+@media (device-width: 150vw) and (device-height: 100vh) {
   .reveal pre code {
     max-height: 50vh !important;
   }
