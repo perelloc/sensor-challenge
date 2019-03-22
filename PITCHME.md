@@ -1,6 +1,6 @@
 ### Sensor Challenge in C++
 
-+++?color=black
++++?color=#1E1F21
 
 @snap[north-west template-note text-white]
 #### Arduino 101
@@ -10,7 +10,7 @@
 ![Arduino 101](https://docs.zephyrproject.org/latest/_images/arduino_101.jpg)
 @snapend
 
-+++?color=black
++++?color=#1E1F21
 
 @snap[north-west template-note text-white]
 #### Quark C1000
@@ -29,10 +29,12 @@ Zephyr kernel currently provides only a subset of C++ functionality.
 <br><br>
 @snapend
 
-
-@snap[west list-content-verbose span-100]
+@snap[west]
 The following features are not supported:
 <br>
+@snapend
+
+@snap[west list-content-verbose]
 @ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
