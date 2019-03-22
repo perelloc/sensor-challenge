@@ -24,11 +24,12 @@
 @title[Zephyr kernel currently provides only a subset of C++ functionality]
 
 @snap[north-west]
+Zephyr kernel currently provides only a subset of C++ functionality.
 The following features are not supported:
 @snapend
 
 
-@snap[south-west list-content-verbose span-100]
+@snap[west list-content-verbose span-100]
 @ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
