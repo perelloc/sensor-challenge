@@ -1,11 +1,8 @@
 Sensor Challenge in C++
 ---
-@title[Code Presenting Templates]
-
-a
+@title[Polling the sensor]
 
 +++?code=the-template-master/template/src/go/server.go&lang=golang
-@title[Repo Source File]
 
 +++?color=lavender @title[Fenced Code Block]
 
