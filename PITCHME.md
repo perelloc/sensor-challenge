@@ -1,9 +1,9 @@
-Sensor Challenge in C++
+# Sensor Challenge in C++
 
 +++
 
 @snap[north-west template-note text-white]
-Arduino 101
+### Arduino 101
 @snapend
 
 @snap[west]
@@ -13,7 +13,7 @@ Arduino 101
 +++
 
 @snap[north-west template-note text-white]
-Quark C1000
+### Quark C1000
 @snapend
 
 @snap[west]
@@ -38,7 +38,7 @@ The following features are not supported:
 
 +++
 
-@snap[north-west]
+@snap[north-west template-note]
 While not an exhaustive list, support for the following functionality is included:
 @ul[](false)
 - Inheritance
