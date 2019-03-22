@@ -12,11 +12,13 @@ Arduino 101
 @[3-4](Your code is displayed using code-syntax highlighting just like your IDE.)
 @[7-8,10](Again, all of this without ever leaving your slideshow.)
 
-@snap[north-west template-note text-white]
+@snap[north template-note text-white]
 Polling the sensor
 @snapend
 
+@snap[span-100]
 +++?gist=perelloc/3288fe83b50f0591eb6081e651c0b802&color=#1E1F21
+@snapend
 
 +++
 
