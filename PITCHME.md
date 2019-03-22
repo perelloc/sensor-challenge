@@ -29,7 +29,7 @@ C++ functionality not yet supported in Zephyr:
 <br><br>
 @snapend
 
-@snap[west list-content-verbose]
+@snap[west list-content-verbose text-gray]
 @ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
@@ -47,7 +47,7 @@ While not an exhaustive list, support for the following functionality is include
 <br><br>
 @snapend
 
-@snap[west list-content-verbose]
+@snap[west list-content-verbose text-gray]
 @ul[](false)
 - Inheritance
 - Virtual functions
