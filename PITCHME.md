@@ -12,7 +12,7 @@ Polling the sensor
 
 +++?gist=perelloc/3288fe83b50f0591eb6081e651c0b802&color=#1E1F21
 
-´´´
+```
 ***** BOOTING ZEPHYR OS v1.10.0- - BUILD: Mar 21 2019 09:09:57 *****            
 Hello World! x86                                                                
 Using Bosch BMI160                                                              
@@ -31,6 +31,6 @@ Gyro (rad/s): X=0.004260, Y=0.010650, Z=0.004260
 Acc (m/s^2): X=0.819858, Y=0.785174, Z=9.474712                                 
 Temperature (Celsius): 28.997663                                                
 Testing the polling mode finished.
-´´´
+```
 
 
