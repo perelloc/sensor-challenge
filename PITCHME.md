@@ -20,11 +20,11 @@
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
-+++?image=template/img/spotlight.png&position=top right&size=20% auto
++++?image=template/img/bg/black.png&position=top right&size=20% auto
 @title[Zephyr kernel currently provides only a subset of C++ functionality]
 
 @snap[north-west]
-Zephyr kernel currently provides only a subset of C++ functionality.
+Zephyr kernel currently provides only a subset of C++ functionality.<br>
 The following features are not supported:
 @snapend
 
