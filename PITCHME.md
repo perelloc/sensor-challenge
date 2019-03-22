@@ -9,6 +9,7 @@ Arduino 101
 @snapend
 
 +++
+
 @snap[north-west template-note text-white]
 Quark C1000
 @snapend
@@ -17,6 +18,22 @@ Quark C1000
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
++++
+
+@snap[span-100]
+The kernel currently provides only a subset of C++ functionality. The following features are not supported:
+
+Dynamic object management with the new and delete operators
+RTTI
+Exceptions
+Static global object destruction
+While not an exhaustive list, support for the following functionality is included:
+
+Inheritance
+Virtual functions
+Virtual tables
+Static global object constructor
+@snapend
 
 +++?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=#1E1F21
 
