@@ -18,9 +18,7 @@ Quark C1000
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
-+++
-
-@snap[north-west]
++++@snap[north-west]
 The kernel currently provides only a subset of C++ functionality. The following features are not supported:
 @snapend
 
@@ -31,7 +29,7 @@ The kernel currently provides only a subset of C++ functionality. The following 
 - Static global object destruction
 @ulend
 
-While not an exhaustive list, support for the following functionality is included:
++++@snap[north-west]While not an exhaustive list, support for the following functionality is included:
 
 @ul
 - Inheritance
