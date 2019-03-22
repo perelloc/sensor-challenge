@@ -2,7 +2,7 @@ Sensor Challenge in C++
 ---
 @title[Polling the sensor]
 
-+++?code=the-template-master/template/src/go/server.go&lang=golang
++++?code=template/src/go/server.go&lang=golang
 
 +++?color=lavender @title[Fenced Code Block]
 
