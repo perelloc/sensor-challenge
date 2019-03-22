@@ -24,10 +24,10 @@
 @title[Zephyr RTOS]
 
 @snap[north-west]
-A Linux Foundation project: A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
+Zephyr™: A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
 @snapend
 
-@snap[west]
+@snap[west text-gray span-120]
 The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind.
 @snapend
 
