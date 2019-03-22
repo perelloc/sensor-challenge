@@ -14,7 +14,7 @@ Quark C1000
 @snapend
 
 @snap[span-100]
-![Arduino 101](https://www.intel.com/content/dam/www/public/us/en/images/embedded/16x9/atlas-peak-diagram-16x9.png.rendition.intel.web.576.324.png)https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
+![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
 
