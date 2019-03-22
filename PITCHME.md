@@ -23,7 +23,11 @@ Quark C1000
 +++
 
 @snap[north-west]
-The kernel currently provides only a subset of C++ functionality. The following features are not supported:
+### The kernel currently provides only a subset of C++ functionality. 
+@snapend
+
+@snap[west]
+The following features are not supported:
 @snapend
 
 @ul[](false)
