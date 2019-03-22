@@ -5,7 +5,7 @@ Sensor Challenge in C++
 
 @snap[north-east template-note text-gray]
 
-+++?color=lavender @title[Fenced Code Block]
+?color=lavender @title[Fenced Code Block]
 
 ```C++
 int main(void)
