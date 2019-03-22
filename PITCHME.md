@@ -40,14 +40,13 @@ The following features are not supported:
 
 @snap[north-west]
 While not an exhaustive list, support for the following functionality is included:
-@snapend
-
 @ul[](false)
 - Inheritance
 - Virtual functions
 - Virtual tables
 - Static global object constructor
 @ulend
+@snapend
 
 +++?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=#1E1F21
 
