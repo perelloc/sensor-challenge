@@ -32,7 +32,7 @@ Zephyr™: A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
 @snapend
 
 @snap[south]
-@size[0.5em]https://www.zephyrproject.org/what-is-zephyr/
+@size[0.5em](https://www.zephyrproject.org/what-is-zephyr)
 @snapend
 
 +++?color=#1E1F21
