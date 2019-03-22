@@ -26,11 +26,11 @@ Quark C1000
 #### Zephyr kernel currently provides only a subset of C++ functionality. 
 @snapend
 
-@snap[west span-10]
+@snap[west span-100]
 The following features are not supported:
 @snapend
 
-@snap[span-20]
+@snap[span-100]
 @ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
