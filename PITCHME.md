@@ -31,6 +31,10 @@ Zephyr™: A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
 @quote[...supports multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind](The Zephyr™ Project - The Linux Foundation)
 @snapend
 
+@snap[south]
+https://www.zephyrproject.org/what-is-zephyr/
+@snapend
+
 +++?color=#1E1F21
 
 @title[C++ functionality not yet supported in Zephyr]
