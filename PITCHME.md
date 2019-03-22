@@ -11,6 +11,7 @@ Arduino 101
 +++?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=#1E1F21
 
 @[10-13](generic sensor class)
+@[15-30](inheriting gravity/acceleration sensor)
 
 @snap[north template-note text-white]
 Polling the sensor
