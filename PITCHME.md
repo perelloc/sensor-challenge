@@ -23,19 +23,19 @@ Quark C1000
 +++
 
 @snap[north-west]
-## Zephyr kernel currently provides only a subset of C++ functionality. 
+#### Zephyr kernel currently provides only a subset of C++ functionality. 
 @snapend
 
 @snap[west]
 The following features are not supported:
 @snapend
 
-@ol[](false)
+@ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
 - Exceptions
 - Static global object destruction
-@olend
+@ulend
 
 +++
 
@@ -49,8 +49,6 @@ While not an exhaustive list, support for the following functionality is include
 - Virtual tables
 - Static global object constructor
 @olend
-
-
 
 +++?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=#1E1F21
 
