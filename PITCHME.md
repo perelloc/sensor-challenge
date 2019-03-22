@@ -40,9 +40,14 @@ C++ functionality not yet supported in Zephyr:
 
 +++?color=#1E1F21
 
-@snap[north-west template-note]
-While not an exhaustive list, support for the following functionality is included:
+@title[C++ functionality supported in Zephyr]
 
+@snap[north-west]
+While not an exhaustive list, support for the following functionality is included:
+<br><br>
+@snapend
+
+@snap[west list-content-verbose]
 @ul[](false)
 - Inheritance
 - Virtual functions
