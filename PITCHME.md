@@ -10,6 +10,6 @@ Sensor Challenge in C++
 Polling the sensor
 @snapend
 
-+++?gist=perelloc/3288fe83b50f0591eb6081e651c0b802&color=#1E1F21
++++?gist=perelloc/3288fe83b50f0591eb6081e651c0b802&lang=text&color=#1E1F21
 
 
