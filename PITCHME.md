@@ -1,11 +1,7 @@
 Sensor Challenge in C++
 ---
 @title[Polling the sensor]
-
-
 @snap[north-east template-note text-gray]
-
-?color=lavender @title[Fenced Code Block]
 
 ```C++
 int main(void)
