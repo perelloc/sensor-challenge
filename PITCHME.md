@@ -22,6 +22,16 @@
 
 +++?color=#1E1F21
 
+@title[Zephyr RTOS]
+
+A Linux Foundation project
+
+A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
+
+The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind.
+
++++?color=#1E1F21
+
 @title[C++ functionality not yet supported in Zephyr]
 
 @snap[north-west]
