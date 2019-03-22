@@ -28,18 +28,20 @@
 
 @snap[west span-100]
 The following features are not supported:
-@ul[](false)
+@snap[south-west list-content-concise span-100]
+@ol[list-bullets-black](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
 - Exceptions
 - Static global object destruction
-@ulend
+@olend
 @snapend
 
 +++
 
 @snap[north-west template-note]
 While not an exhaustive list, support for the following functionality is included:
+
 @ul[](false)
 - Inheritance
 - Virtual functions
