@@ -4,8 +4,6 @@ Sensor Challenge in C++
 
 
 @snap[north-east template-note text-gray]
-Code presenting repository source file template.
-@snapend
 
 +++?color=lavender @title[Fenced Code Block]
 
@@ -28,5 +26,7 @@ int main(void)
 	return 0;
 }
 ```
+
+@snapend
 ---
 Slide 2
