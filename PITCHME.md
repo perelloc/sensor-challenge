@@ -26,7 +26,7 @@ Quark C1000
 The kernel currently provides only a subset of C++ functionality. The following features are not supported:
 @snapend
 
-@ol[](false)
+@ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
 - Exceptions
@@ -35,10 +35,11 @@ The kernel currently provides only a subset of C++ functionality. The following 
 
 +++
 
-@snap[north-west]While not an exhaustive list, support for the following functionality is included:
+@snap[north-west]
+While not an exhaustive list, support for the following functionality is included:
 @snapend
 
-@ul
+@ul[](false)
 - Inheritance
 - Virtual functions
 - Virtual tables
