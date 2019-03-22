@@ -5,7 +5,7 @@ Sensor Challenge in C++
 @snap[north-east template-note text-gray]
 @snapend
 
----?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=white&title=Main
+---?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=black&title=Main
 
 @[1,2](You can present code inlined within your slide markdown too.)
 @[9-17](Your code is displayed using code-syntax highlighting just like your IDE.)
