@@ -5,7 +5,7 @@ Sensor Challenge in C++
 @snap[north-east template-note text-gray]
 @snapend
 
----?gist=perelloc/gist:1daae7759918dac40e1eb7174ee4929f&lang=c++&color=white&title=Main
+---?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=white&title=Main
 
 
 ---
