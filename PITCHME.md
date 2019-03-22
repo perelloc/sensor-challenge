@@ -1,9 +1,9 @@
-# Sensor Challenge in C++
+### Sensor Challenge in C++
 
 +++
 
 @snap[north-west template-note text-white]
-### Arduino 101
+#### Arduino 101
 @snapend
 
 @snap[west]
@@ -13,7 +13,7 @@
 +++
 
 @snap[north-west template-note text-white]
-### Quark C1000
+#### Quark C1000
 @snapend
 
 @snap[west]
