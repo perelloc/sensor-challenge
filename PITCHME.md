@@ -25,13 +25,8 @@
 @title[Zephyr kernel currently provides only a subset of C++ functionality]
 
 @snap[north-west]
-Zephyr kernel currently provides only a subset of C++ functionality.
+Zephyr kernel currently does not support full C++ functionality.
 <br><br>
-@snapend
-
-@snap[west]
-The following features are not supported:
-<br>
 @snapend
 
 @snap[west list-content-verbose]
