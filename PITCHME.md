@@ -20,24 +20,24 @@ Quark C1000
 
 +++
 
-@snap[span-100]
+@snap[north-west]
 The kernel currently provides only a subset of C++ functionality. The following features are not supported:
 @snapend
 
 @ul
-Dynamic object management with the new and delete operators
-Run-time type identification
-Exceptions
-Static global object destruction
+- Dynamic object management with the new and delete operators
+- Run-time type identification
+- Exceptions
+- Static global object destruction
 @ulend
 
 While not an exhaustive list, support for the following functionality is included:
 
 @ul
-Inheritance
-Virtual functions
-Virtual tables
-Static global object constructor
+- Inheritance
+- Virtual functions
+- Virtual tables
+- Static global object constructor
 @ulend
 
 
