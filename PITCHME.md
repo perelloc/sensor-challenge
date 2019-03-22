@@ -27,7 +27,7 @@ Quark C1000
 @snapend
 
 @snap[west span-100]
-The following features are not supported:
+#####The following features are not supported:
 @snapend
 
 @snap[span-100]
