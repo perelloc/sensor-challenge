@@ -28,8 +28,7 @@ Zephyr™: A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
 @snapend
 
 @snap[west text-gray]
-The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind.
-<br>
+@quote[The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with safety and security in mind]
 @snapend
 
 @snap[south]
