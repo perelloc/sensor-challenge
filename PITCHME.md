@@ -2,15 +2,9 @@ Sensor Challenge in C++
 ---
 @title[Code Presenting Templates]
 
-## @color[black](Code Presenting<br>Slide Templates)
+a
 
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
-+++?code=template/src/go/server.go&lang=golang
++++?code=the-template-master/template/src/go/server.go&lang=golang
 @title[Repo Source File]
 
 +++?color=lavender @title[Fenced Code Block]
