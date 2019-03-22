@@ -37,7 +37,7 @@ The following features are not supported:
 - Exceptions
 - Static global object destruction
 @ulend
-@spanend
+@snapend
 
 +++
 
