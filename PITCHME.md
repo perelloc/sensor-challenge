@@ -20,7 +20,7 @@
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
-+++?image=https://www.zephyrproject.org/wp-content/uploads/sites/38/2017/08/zephyr-logo.png&position=right&size=20%&color=#1E1F21
++++?image=https://www.zephyrproject.org/wp-content/uploads/sites/38/2017/08/zephyr-logo.png&position=left&size=20%&color=#1E1F21
 @title[Zephyr RTOS]
 
 @snap[north-west]
@@ -32,7 +32,7 @@ Zephyr™ : A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
 @snapend
 
 @snap[south span-100]
-@size[0.6em](https://www.zephyrproject.org/what-is-zephyr)
+@size[0.7em](https://www.zephyrproject.org/what-is-zephyr)
 @snapend
 
 +++?color=#1E1F21
