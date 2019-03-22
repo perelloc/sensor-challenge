@@ -20,7 +20,7 @@
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
-+++?image=https://www.zephyrproject.org/wp-content/uploads/sites/38/2017/08/zephyr-logo.png&position=left&size=30%&color=#1E1F21
++++?image=https://www.zephyrproject.org/wp-content/uploads/sites/38/2017/08/zephyr-logo.png&position=left&size=20%&color=#1E1F21
 @title[Zephyr RTOS]
 
 @snap[north-west]
