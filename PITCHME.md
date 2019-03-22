@@ -5,25 +5,8 @@ Sensor Challenge in C++
 @snap[north-east template-note text-gray]
 @snapend
 
-```C++
-int main(void)
-{
-    sensor* GravitySensor;
+---?gist=perelloc/gist:1daae7759918dac40e1eb7174ee4929f&lang=c++&color=white&title=Main
 
-    printk("Using Bosch BMI160\n");
-    bmi160 bmi160;
-
-    GravitySensor = &bmi160;
-
-    printk("Testing the polling mode.\n");
-
-    GravitySensor->Poll();
-	
-	printk("Testing the polling mode finished.\n");
-
-	return 0;
-}
-```
 
 ---
 Slide 2
