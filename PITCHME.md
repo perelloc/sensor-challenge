@@ -22,10 +22,10 @@
 
 +++?color=#1E1F21
 
-@title[Zephyr kernel currently provides only a subset of C++ functionality]
+@title[C++ functionality not yet supported in Zephyr]
 
 @snap[north-west]
-Zephyr kernel currently does not support full C++ functionality.
+C++ functionality not yet supported in Zephyr:
 <br><br>
 @snapend
 
