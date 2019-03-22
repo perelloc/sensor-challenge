@@ -20,21 +20,22 @@
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
-+++
++++?image=template/img/spotlight.png&position=top right&size=20% auto
+@title[#### Zephyr kernel currently provides only a subset of C++ functionality.]
 
 @snap[north-west]
-#### Zephyr kernel currently provides only a subset of C++ functionality. 
+The Key Concepts
 @snapend
 
 @snap[west span-100]
 The following features are not supported:
-@snap[south-west list-content-concise span-100]
-@ol[list-bullets-black](false)
+@snap[south-west list-content-verbose span-100]
+@ul[](false)
 - Dynamic object management with the new and delete operators
 - Run-time type identification
 - Exceptions
 - Static global object destruction
-@olend
+@ulend
 @snapend
 
 +++
