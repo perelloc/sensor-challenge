@@ -1,6 +1,6 @@
 ### Sensor Challenge in C++
 
-+++
++++?color=black
 
 @snap[north-west template-note text-white]
 #### Arduino 101
@@ -10,7 +10,7 @@
 ![Arduino 101](https://docs.zephyrproject.org/latest/_images/arduino_101.jpg)
 @snapend
 
-+++
++++?color=black
 
 @snap[north-west template-note text-white]
 #### Quark C1000
@@ -20,7 +20,8 @@
 ![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
-+++?image=template/img/bg/black.jpg&size=100% auto
++++?color=black
+
 @title[Zephyr kernel currently provides only a subset of C++ functionality]
 
 @snap[north-west]
@@ -40,7 +41,7 @@ The following features are not supported:
 @ulend
 @snapend
 
-+++
++++?color=black
 
 @snap[north-west template-note]
 While not an exhaustive list, support for the following functionality is included:
