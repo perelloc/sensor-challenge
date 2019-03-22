@@ -5,7 +5,7 @@ Arduino 101
 @snapend
 
 @snap[span-100]
-![Arduino 101](http://linuxgizmos.com/files/intel_arduino101.jpg)
+![Arduino 101](https://docs.zephyrproject.org/latest/_images/arduino_101.jpg)
 @snapend
 
 +++
