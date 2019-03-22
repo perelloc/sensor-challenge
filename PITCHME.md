@@ -22,6 +22,7 @@ Quark C1000
 
 @snap[span-100]
 The kernel currently provides only a subset of C++ functionality. The following features are not supported:
+@snapend
 
 @ul
 Dynamic object management with the new and delete operators
@@ -39,7 +40,7 @@ Virtual tables
 Static global object constructor
 @ulend
 
-@snapend
+
 
 +++?gist=perelloc/1daae7759918dac40e1eb7174ee4929f&lang=c++&color=#1E1F21
 
