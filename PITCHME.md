@@ -18,12 +18,15 @@
 +++?color=#1E1F21
 
 @snap[north-west template-note text-white]
-#### Quark C1000
+#### Intel Curie / Quark SE
+@snapend
+
+@snap[east]
+![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
 @snapend
 
 @snap[west]
-![Quark SE](https://www.mouser.se/images/IntelQuarkSE-Fig4.jpg)
-@snapend
+![Curie](https://lh3.googleusercontent.com/9MX6exV99JZfWKo0HUq2Gdt6cpKUjATluIYHsGazMYvOY7C_Z_M6_S_6ITdZwFVuQK81Z1H10rpn1PEJ3B1d7_WaNdhdk6rr8kNUPspyvOKz63uE-5YXLvaPz2RXpURijBxPE7dZmkn5j4wf1az9RsMoky77O9kzaGtLLclnYsOJlNPoAAvu6VBG4FPN8TjQP6mK34Ba0IqUxKdRi17Bn9fEpWXf7I5bpaJtKdFsrF00jLGpLqkPbm8jc8a0CFy1OpuwLTTTX2XFHmvYjSigidFB1vyWbyhuukoVqdxlAwXtfpTZQk-5Rz6sVTPg48K4lsBLSc5Kvhb3n50rjGVxYliNmTTdHqYyDQyNXmG1_8_OB0tEdxbNR-3fUjAPUkxzRH4n1HqLlypZ2cwcXAmTIK8SH5m-T07NwrD4IddABQ5P8KMVBJSAEAb26_ABjZHiF5VgbIU2m_-j8fbahxdUxCBMiTBctG6hFvBl7ZaPWD64AmeLQx345BVWaJtvl3ndnT9HPADrM3cfaUUwwpSMkJ0K5iXLhvgrykv4lOn3er2iAGUq56ny6ExWLVYRm7m0sDVeHmZhpVUVwpwIvF8rjKUwpdie8TqVNgoN3SU1gJN2dXSdtfcgE5GD0wW4c51AU6s4qyEW0m8VffME0k41KzT0miwmdf0)
 
 +++?image=https://www.zephyrproject.org/wp-content/uploads/sites/38/2017/08/zephyr-logo.png&position=left&size=20%&color=#1E1F21
 @title[Zephyr RTOS]
