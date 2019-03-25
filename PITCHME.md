@@ -55,8 +55,9 @@ The sensor subsystem exposes an API to uniformly access sensor devices.
 - Sensors can have multiple channels, either to represent different axes of the same physical property
 - Sensor devices return results as 
 
-@css[text-white fragment](struct sensor_value) 
-
+´´´cpp
+struct sensor_value) 
+´´´
 This representation avoids use of floating point values as they may not be supported on certain setups.
 @ulend
 @snapend
