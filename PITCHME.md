@@ -50,11 +50,11 @@ Zephyr™ : A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
 The sensor subsystem exposes an API to uniformly access sensor devices. Common operations are: reading data and executing code when specific conditions are met.
 @snapend
 
-@snap[]
+@snap[west text-gray]
 Sensors can have multiple channels, either to represent different axes of the same physical property
 @snapend
 
-@snap[]
+@snap[south span-100]
 Sensor devices return results as struct sensor_value. This representation avoids use of floating point values as they may not be supported on certain setups.
 @snapend
 
