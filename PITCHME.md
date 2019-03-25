@@ -53,7 +53,7 @@ The sensor subsystem exposes an API to uniformly access sensor devices.
 @snap[west list-content-verbose text-gray]
 @ul[](false)
 - Sensors can have multiple channels, either to represent different axes of the same physical property
-- Sensor devices return results as @em[text-white](struct sensor_value). 
+- Sensor devices return results as @color[white](struct sensor_value). 
 
 This representation avoids use of floating point values as they may not be supported on certain setups.
 @ulend
