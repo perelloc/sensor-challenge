@@ -97,14 +97,16 @@ While not an exhaustive list, support for the following functionality is include
 
 @[10-13](generic sensor class)
 @[15-30](inheriting gravity/acceleration sensor)
+@[177-193](creating object)
+@[35-39](bind to device)
+@[45-53](using channels to set attributes)
+@[118-132](getting a value)
 
 @snap[north template-note text-white]
-Polling the sensor
+Sensor poll
 @snapend
 
-
 +++?gist=perelloc/3288fe83b50f0591eb6081e651c0b802&color=#1E1F21
-
 
 +++
 
