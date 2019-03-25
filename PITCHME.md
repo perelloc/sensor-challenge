@@ -51,11 +51,11 @@ The sensor subsystem exposes an API to uniformly access sensor devices. Common o
 @snapend
 
 @snap[west text-gray]
-Sensors can have multiple channels, either to represent different axes of the same physical property
+- Sensors can have multiple channels, either to represent different axes of the same physical property
 @snapend
 
-@snap[south span-100]
-Sensor devices return results as struct sensor_value. This representation avoids use of floating point values as they may not be supported on certain setups.
+@snap[west span-100]
+- Sensor devices return results as struct sensor_value. This representation avoids use of floating point values as they may not be supported on certain setups.
 @snapend
 
 +++?color=#1E1F21
