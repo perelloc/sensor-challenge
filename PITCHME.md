@@ -59,7 +59,7 @@ The sensor subsystem exposes an API to uniformly access sensor devices.
 @ulend
 @snapend
 
-@snap[south-west]
+@snap[south-west text-gray]
 This representation avoids use of floating point values as they may not be supported on certain setups.
 @snapend
 
