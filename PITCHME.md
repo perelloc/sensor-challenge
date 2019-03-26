@@ -115,10 +115,14 @@ Sensor poll
 +++?gist=perelloc/3288fe83b50f0591eb6081e651c0b802&color=#1E1F21
 @title[poll output]
 
+@snap[north template-note text-white]
+poll output
+@snapend
+
 +++?gist=perelloc/17126c7d67e055e3893b7c284ffbd979&color=#1E1F21
 
-@[1-5](now you can trigger the sensor)
-@[33-60](enabling anymotion trigger)
+@[1-5](sensor can be triggered)
+@[33-60](enabling anymotion on acceleration channel)
 @[7-31](adding a trigger callback handler in C)
 
 @snap[north template-note text-white]
